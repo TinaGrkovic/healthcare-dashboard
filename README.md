@@ -32,10 +32,12 @@ The dashboard consists of **five main sections**, each containing multiple tabs 
 - Provides an **overview of admissions, billing, and test results** across all hospitals.  
 - Shows **correlations between billing, length of stay, and medical conditions**.  
 - Interactive **filters** for hospital, admission type, and time period.  
+![Dashboard Screenshot](images/revenues.png)
 
 ### **📊 Financial Insights**  
 - Revenue trends by **hospital, admission type, and medical condition**.  
 - Identifies the **highest revenue-generating hospitals and insurance providers**.  
+![Dashboard Screenshot](images/hospitals.png)
 
 ### **📊 Demographics & Billing Analysis**  
 - Analyzes **how age, gender, and medical conditions impact billing**.  
@@ -44,6 +46,7 @@ The dashboard consists of **five main sections**, each containing multiple tabs 
 ### **📊 Test Results & Medical Conditions**  
 - Examines **test result distributions (Normal, Abnormal, Inconclusive)**.  
 - Identifies **hospitals with the highest number of abnormal test results**.  
+![Dashboard Screenshot](images/conditions.png)
 
 ### **📊 Admissions & Hospital Logistics**  
 - Breaks down **hospital admission trends** by medical condition and type.  
