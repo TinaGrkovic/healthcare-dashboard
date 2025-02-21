@@ -45,17 +45,18 @@ The dashboard consists of five main sections, each containing multiple tabs for 
    ```bash
    git clone https://github.com/TinaGrkovic/healthcare_dashboard.git
    cd healthcare_dashboard
-2. **Run the final notebook:**
+2. **Run the Streamlit dashboard:**
    ```bash
-   jupyter notebook notebooks/dashboard.ipynb
+   streamlit run dashboard.py
 
 ### **Repository Structure**
   ```bash
 ## 📁 **Project Structure**
-  real_estate_regression/
-  ├── Housing_Prices_24.csv                # Main dataset with 1,460 real estate records
-  ├── homesforsale.csv                     # Dataset containing homes for prediction
-  ├── real_estate_regression.ipynb         # Jupyter notebook with full regression analysis
-  ├── Real Estate Presentation.pptx        # Final slide deck for the investor
-  ├── Real Estate Regression Project and Data Dictionay.docx  # Project overview & data dictionary
-  └── README.md                            # Project overview and documentation
+  healthcare_dashboard/
+   ├── images/                          # Screenshots
+   ├── pages/                           # Additional Streamlit pages
+   │   └── (individual page scripts)
+   ├── Clean_Healthcare_Dataset.csv     # Cleaned healthcare dataset used for analysis
+   ├── healthcare_database.db           # SQLite database for backend storage
+   ├── dashboard.py                     # Main Streamlit dashboard
+   └── README.md
