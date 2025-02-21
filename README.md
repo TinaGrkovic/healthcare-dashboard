@@ -2,7 +2,7 @@
 📊 SQL + Streamlit Dashboard for Healthcare Data Analysis  
 
 ## Overview  
-This project analyzes **real-world healthcare data** using SQL and Python, visualized in an interactive Streamlit dashboard.  
+This project analyzes real-world healthcare data using SQL and Python, visualized in an interactive Streamlit dashboard.  
 It aims to identify trends in patient admissions, hospital revenue, test results, and patient demographics** to improve decision-making in healthcare settings.
 
 ### **Key Features**  
