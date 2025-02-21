@@ -51,7 +51,6 @@ The dashboard consists of five main sections, each containing multiple tabs for 
 
 ### **Repository Structure**
   ```bash
-## 📁 **Project Structure**
   healthcare_dashboard/
    ├── images/                          # Screenshots
    ├── pages/                           # Additional Streamlit pages
