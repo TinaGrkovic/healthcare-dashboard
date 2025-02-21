@@ -65,17 +65,3 @@ The dashboard consists of **five main sections**, each containing multiple tabs 
 1. **Data Processing:** The dataset is cleaned and loaded into a **SQLite database**.  
 2. **SQL Queries:** The dashboard dynamically pulls insights using SQL.  
 3. **Streamlit Visualization:** Charts and tables are generated from the query results.  
-
----
-
-## **Installation & Setup**  
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/TinaGrkovic/healthcare-dashboard.git
-   cd healthcare-dashboard
-2. **Install dependencies**  
-   ```sh
-   pip install -r requirements.txt
-3. **Run the Streamlit app**  
-   ```sh
-   streamlit run dashboard.py
